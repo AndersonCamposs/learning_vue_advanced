@@ -3,9 +3,9 @@
 </script>
 
 <template>
-    <h1>Bem vindo à Home Page</h1>
+<h1>Props</h1>
 </template>
-    
+
 <style scoped>
 
 </style>
